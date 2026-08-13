@@ -6,7 +6,7 @@
 
 | ID | 대상 | 영역 | 상태 | 핵심 역량 |
 |---|---|---|---|---|
-| QA-001 | ONE-TAP | WebGL / Firebase Ranking | 검증 전 초안 | 플랫폼 호환성, 데이터 저장, 회귀 설계 |
+| [QA-001](cases/QA-001-one-tap-webgl-firebase-ranking.md) | ONE-TAP | WebGL / Firebase Ranking | 검증 전 초안 | 플랫폼 호환성, 데이터 저장, 회귀 설계 |
 | QA-002 | 준비 중 | Gameplay | 자료 수집 중 | 상태 전이, 경계값 |
 | QA-003 | 준비 중 | UI / Input | 자료 수집 중 | 입력 예외, 사용성 |
 
@@ -63,4 +63,9 @@ QA-001_regression_result.md
 
 파일명만으로 사례, 환경, 수정 전후, 순서를 구분할 수 있게 합니다.
 
+## Templates
+
+- [Bug Report Template](templates/bug-report-template.md)
+- [Test Case Template](templates/test-case-template.md)
+- [Evidence Guide](evidence/README.md)
 
